@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\MyDGDProject\\MyDGDProject.csproj",
+      "projectUniqueName": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSen-Assignment\\MyDGDProject\\MyDGDProject.csproj",
       "projectName": "MyDGDProject",
-      "projectPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\MyDGDProject\\MyDGDProject.csproj",
+      "projectPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSen-Assignment\\MyDGDProject\\MyDGDProject.csproj",
       "packagesPath": "C:\\Users\\ESERPC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\MyDGDProject\\obj\\",
+      "outputPath": "C:\\Users\\ESERPC\\Desktop\\DGD203-Github\\DGD203-EserEfeSen-Assignment\\MyDGDProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ESERPC\\AppData\\Roaming\\NuGet\\NuGet.Config",

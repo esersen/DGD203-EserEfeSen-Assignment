@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyDGDProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93af4b08ae9153d9975839c9369a957adfc83527")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyDGDProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyDGDProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

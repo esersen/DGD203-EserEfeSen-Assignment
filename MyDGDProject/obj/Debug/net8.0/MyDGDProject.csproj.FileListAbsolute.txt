@@ -1,0 +1,15 @@
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\bin\Debug\net8.0\MyDGDProject.exe
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\bin\Debug\net8.0\MyDGDProject.deps.json
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\bin\Debug\net8.0\MyDGDProject.runtimeconfig.json
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\bin\Debug\net8.0\MyDGDProject.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\bin\Debug\net8.0\MyDGDProject.pdb
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.AssemblyInfoInputs.cache
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.AssemblyInfo.cs
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.csproj.CoreCompileInputs.cache
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.sourcelink.json
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\refint\MyDGDProject.dll
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.pdb
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\MyDGDProject.genruntimeconfig.cache
+C:\Users\ESERPC\Desktop\DGD203-Github\DGD203-EserEfeSen-Assignment\MyDGDProject\obj\Debug\net8.0\ref\MyDGDProject.dll
