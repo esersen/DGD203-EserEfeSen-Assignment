@@ -6,11 +6,11 @@ namespace FirstGame
     {
         static void Main(string[] args)
         {
-            // Initialize an engine and turbo
+            
             IEngine engine = new BasicEngine();
             ITurbo turbo = new BasicTurbo();
 
-            // Create a car with fuel, engine, and turbo
+            
             Car myCar = new Car(10f, engine, turbo);
 
             Console.WriteLine("Starting the car...");
@@ -23,7 +23,7 @@ namespace FirstGame
             for (int i = 0; i < 5; i++)
             {
                 myCar.Drive();
-                System.Threading.Thread.Sleep(500); // Pausing for readability
+                System.Threading.Thread.Sleep(500); 
             }
 
             Console.WriteLine("\nDeactivating turbo...");
@@ -54,7 +54,7 @@ namespace FirstGame
 
         public float GetPowerOutput()
         {
-            return 100f; // Basic power output
+            return 100f; 
         }
     }
 
@@ -76,7 +76,7 @@ namespace FirstGame
 
         public float GetTurboBoost()
         {
-            return 50f; // Additional boost from turbo
+            return 50f; 
         }
     }
 }
